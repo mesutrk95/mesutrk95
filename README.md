@@ -34,11 +34,10 @@ My name is **Masoud Rezakhanlou** and I'm a **Full-Stack Software Developer** fr
   <img align="center" src="https://github-readme-stats-mesutrk95.vercel.app/api/pin/?username=mesutrk95&repo=solid-ql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/MartinHeinz/goddamn-robot">
   <img align="center" src="https://github-readme-stats-mesutrk95.vercel.app/api/pin/?username=mesutrk95&repo=goddamn-robot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 ### Contact
 - [@masoud-rezakhanlou](https://www.linkedin.com/in/masoud-rezakhanlou/) on Linkedin
-- [@masoudrk95](https://t.me/masoudrk95)
+- [@masoudrk95](https://t.me/masoudrk95) on Telegram

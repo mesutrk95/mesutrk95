@@ -31,11 +31,11 @@ My name is **Masoud Rezakhanlou** and I'm a **Full-Stack Software Developer** fr
 </a>
 
 <a href="https://github.com/mesutrk95/solid-ql">
-  <img align="center" src="https://github-readme-stats-mesutrk95.vercel.app/api/pin/?username=mesutrk95&repo=solid-ql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-mesutrk95.vercel.app/api/pin/?username=mesutrk95&repo=solid-ql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=transparent" />
 </a>
 
 <a href="https://github.com/mesutrk95/goddamn-robot">
-  <img align="center" src="https://github-readme-stats-mesutrk95.vercel.app/api/pin/?username=mesutrk95&repo=goddamn-robot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-mesutrk95.vercel.app/api/pin/?username=mesutrk95&repo=goddamn-robot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=transparent" />
 </a>    
 
 ### Contact

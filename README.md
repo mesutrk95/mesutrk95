@@ -18,7 +18,7 @@ My name is **Masoud Rezakhanlou** and I'm a **Full-Stack Software Developer** fr
 - 📝 Integration Test, Unit Test
 - 🌐 Restful API, gRPC
 - 🧠 TensorFlow
-- 🔒 Cryptography, Blockchain, Web3
+- 🔒 Cryptography, Blockchain, Web3, Solidity
 
 
 ## &#x1f4c8; GitHub Stats
